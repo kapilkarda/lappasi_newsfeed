@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss  xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Demo Newspaper RSS Feed RSS</title>
+<link>http://localhost/MainNewsPaper-v2.0/</link>
+<description></description>
+<image>
+                    <title>Demo NewspaperRSS Feed</title>
+                    <url>http://localhost/MainNewsPaper-v2.0/uploads/images/logo.png</url>
+                    <link>http://localhost/MainNewsPaper-v2.0/</link>
+              </image>
+                <item>
+                    <news_id>126</news_id>
+                    <category>Travel</category>
+                    <title>Business Page  praesentium voluptatum deleniti atque corrupti</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/Travel/details/126/Business-Page-praesentium-voluptatum-deleniti-atque-corrupti</link>
+                    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum, neque ac vestibulum tincidunt, purus libero tristique tortor, euismod fermentum massa mi non nisi. Proin gravida dui non scelerisque dictum.</description>
+                    <pubDate>13-08-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1502617895.jpg</url>
+                        <title>Business Page  praesentium voluptatum deleniti atque corrupti</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/Travel/details/126/Business-Page-praesentium-voluptatum-deleniti-atque-corrupti</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/Travel/details/126/Business-Page-praesentium-voluptatum-deleniti-atque-corrupti</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1502617895.jpg</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1502617895.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>125</news_id>
+                    <category>Travel</category>
+                    <title>Lorem Ipsum which looks reasonable. The generated</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/Travel/details/125/Lorem-Ipsum-which-looks-reasonable-The-generated</link>
+                    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum, neque ac vestibulum tincidunt, purus libero tristique tortor, euismod fermentum massa mi non nisi. Proin gravida dui non scelerisque dictum.</description>
+                    <pubDate>13-08-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1502617642.jpeg</url>
+                        <title>Lorem Ipsum which looks reasonable. The generated</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/Travel/details/125/Lorem-Ipsum-which-looks-reasonable-The-generated</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/Travel/details/125/Lorem-Ipsum-which-looks-reasonable-The-generated</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1502617642.jpeg</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1502617642.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>100</news_id>
+                    <category>Travel</category>
+                    <title>blanditiis praesentium voluptatum deleniti atque corrupti </title>
+                    <link>http://localhost/MainNewsPaper-v2.0/Travel/details/100/blanditiis-praesentium-voluptatum-deleniti-atque-corrupti</link>
+                    <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took</description>
+                    <pubDate>2017-02-27</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>blanditiis praesentium voluptatum deleniti atque corrupti </title>
+                        <link>http://localhost/MainNewsPaper-v2.0/Travel/details/100/blanditiis-praesentium-voluptatum-deleniti-atque-corrupti</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/Travel/details/100/blanditiis-praesentium-voluptatum-deleniti-atque-corrupti</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>49</news_id>
+                    <category>Travel</category>
+                    <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/Travel/details/49/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/Travel/details/49/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/Travel/details/49/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>48</news_id>
+                    <category>Travel</category>
+                    <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/Travel/details/48/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/Travel/details/48/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/Travel/details/48/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>47</news_id>
+                    <category>Travel</category>
+                    <title>There are many variations of passages of Lorem Ipsum</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/Travel/details/47/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>There are many variations of passages of Lorem Ipsum</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/Travel/details/47/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/Travel/details/47/There-are-many-variations-of-passages-of-Lorem-Ipsum</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>46</news_id>
+                    <category>Travel</category>
+                    <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/Travel/details/46/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/Travel/details/46/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/Travel/details/46/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>45</news_id>
+                    <category>Travel</category>
+                    <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/Travel/details/45/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/Travel/details/45/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/Travel/details/45/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>44</news_id>
+                    <category>Travel</category>
+                    <title>There are many variations of passages of Lorem Ipsum available</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/Travel/details/44/There-are-many-variations-of-passages-of-Lorem-Ipsum-available</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>There are many variations of passages of Lorem Ipsum available</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/Travel/details/44/There-are-many-variations-of-passages-of-Lorem-Ipsum-available</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/Travel/details/44/There-are-many-variations-of-passages-of-Lorem-Ipsum-available</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>43</news_id>
+                    <category>Travel</category>
+                    <title>There are many variations of passages of Lorem Ipsum</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/Travel/details/43/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>There are many variations of passages of Lorem Ipsum</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/Travel/details/43/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/Travel/details/43/There-are-many-variations-of-passages-of-Lorem-Ipsum</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>42</news_id>
+                    <category>Travel</category>
+                    <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/Travel/details/42/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>18-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/Travel/details/42/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/Travel/details/42/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>41</news_id>
+                    <category>Travel</category>
+                    <title>There are many variations of passages of Lorem Ipsum</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/Travel/details/41/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>There are many variations of passages of Lorem Ipsum</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/Travel/details/41/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/Travel/details/41/There-are-many-variations-of-passages-of-Lorem-Ipsum</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>40</news_id>
+                    <category>Travel</category>
+                    <title>There are many variations of passages of Lorem Ipsum</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/Travel/details/40/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>There are many variations of passages of Lorem Ipsum</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/Travel/details/40/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/Travel/details/40/There-are-many-variations-of-passages-of-Lorem-Ipsum</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/MainNewsPaper-v2.0//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/MainNewsPaper-v2.0//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0//details//</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/</thumb>
+                    
+                </item>
+</channel>
+</rss>

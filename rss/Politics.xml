@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss  xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Demo Newspaper RSS Feed RSS</title>
+<link>http://localhost/NewsPaper365-vs5/</link>
+<description></description>
+<image>
+                    <title>RSS Feed</title>
+                    <url>http://localhost/NewsPaper365-vs5/uploads/images/logo.png</url>
+                    <link>http://localhost/NewsPaper365-vs5/</link>
+              </image>
+                <item>
+                    <news_id>36</news_id>
+                    <category>Politics</category>
+                    <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                    <link>http://localhost/NewsPaper365-vs5/Politics/details/36/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>18-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1487423370.jpeg</url>
+                        <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                        <link>http://localhost/NewsPaper365-vs5/Politics/details/36/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Politics/details/36/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1487423370.jpeg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1487423370.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>35</news_id>
+                    <category>Politics</category>
+                    <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                    <link>http://localhost/NewsPaper365-vs5/Politics/details/35/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>18-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1487423331.jpg</url>
+                        <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                        <link>http://localhost/NewsPaper365-vs5/Politics/details/35/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Politics/details/35/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1487423331.jpg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1487423331.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>34</news_id>
+                    <category>Politics</category>
+                    <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                    <link>http://localhost/NewsPaper365-vs5/Politics/details/34/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>18-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1487423312.jpg</url>
+                        <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                        <link>http://localhost/NewsPaper365-vs5/Politics/details/34/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Politics/details/34/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1487423312.jpg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1487423312.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>33</news_id>
+                    <category>Politics</category>
+                    <title>There are many variations of passages of Lorem Ipsum</title>
+                    <link>http://localhost/NewsPaper365-vs5/Politics/details/33/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>18-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1487423295.jpg</url>
+                        <title>There are many variations of passages of Lorem Ipsum</title>
+                        <link>http://localhost/NewsPaper365-vs5/Politics/details/33/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Politics/details/33/There-are-many-variations-of-passages-of-Lorem-Ipsum</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1487423295.jpg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1487423295.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>32</news_id>
+                    <category>Politics</category>
+                    <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                    <link>http://localhost/NewsPaper365-vs5/Politics/details/32/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>18-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1487423277.jpg</url>
+                        <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                        <link>http://localhost/NewsPaper365-vs5/Politics/details/32/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Politics/details/32/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1487423277.jpg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1487423277.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>31</news_id>
+                    <category>Politics</category>
+                    <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                    <link>http://localhost/NewsPaper365-vs5/Politics/details/31/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>18-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1487423263.jpg</url>
+                        <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                        <link>http://localhost/NewsPaper365-vs5/Politics/details/31/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Politics/details/31/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1487423263.jpg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1487423263.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>30</news_id>
+                    <category>Politics</category>
+                    <title>There are many variations of passages of Lorem Ipsum</title>
+                    <link>http://localhost/NewsPaper365-vs5/Politics/details/30/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>18-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1487423247.jpg</url>
+                        <title>There are many variations of passages of Lorem Ipsum</title>
+                        <link>http://localhost/NewsPaper365-vs5/Politics/details/30/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Politics/details/30/There-are-many-variations-of-passages-of-Lorem-Ipsum</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1487423247.jpg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1487423247.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>29</news_id>
+                    <category>Politics</category>
+                    <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                    <link>http://localhost/NewsPaper365-vs5/Politics/details/29/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>18-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1487423215.jpg</url>
+                        <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                        <link>http://localhost/NewsPaper365-vs5/Politics/details/29/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Politics/details/29/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1487423215.jpg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1487423215.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>28</news_id>
+                    <category>Politics</category>
+                    <title>There are many variations of passages of Lorem Ipsum available</title>
+                    <link>http://localhost/NewsPaper365-vs5/Politics/details/28/There-are-many-variations-of-passages-of-Lorem-Ipsum-available</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>18-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1487423201.jpg</url>
+                        <title>There are many variations of passages of Lorem Ipsum available</title>
+                        <link>http://localhost/NewsPaper365-vs5/Politics/details/28/There-are-many-variations-of-passages-of-Lorem-Ipsum-available</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Politics/details/28/There-are-many-variations-of-passages-of-Lorem-Ipsum-available</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1487423201.jpg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1487423201.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/NewsPaper365-vs5//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/NewsPaper365-vs5//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5//details//</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/NewsPaper365-vs5//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/NewsPaper365-vs5//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5//details//</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/NewsPaper365-vs5//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/NewsPaper365-vs5//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5//details//</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/NewsPaper365-vs5//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/NewsPaper365-vs5//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5//details//</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/NewsPaper365-vs5//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/NewsPaper365-vs5//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5//details//</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/</thumb>
+                    
+                </item>
+</channel>
+</rss>

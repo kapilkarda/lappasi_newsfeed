@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss  xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Demo Newspaper RSS Feed RSS</title>
+<link>http://localhost/news365_v4/</link>
+<description></description>
+<image>
+                    <title>Demo NewspaperRSS Feed</title>
+                    <url>http://localhost/news365_v4/uploads/images/logo.png</url>
+                    <link>http://localhost/news365_v4/</link>
+              </image>
+                <item>
+                    <news_id>135</news_id>
+                    <category>science</category>
+                    <title>PageMaker including versions of Lorem Ipsum. </title>
+                    <link>http://localhost/news365_v4/science/details/135/PageMaker-including-versions-of-Lorem-Ipsum</link>
+                    <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took</description>
+                    <pubDate>14-02-2018</pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/1518604875.jpeg</url>
+                        <title>PageMaker including versions of Lorem Ipsum. </title>
+                        <link>http://localhost/news365_v4/science/details/135/PageMaker-including-versions-of-Lorem-Ipsum</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4/science/details/135/PageMaker-including-versions-of-Lorem-Ipsum</guid>
+                    <image>http://localhost/news365_v4/uploads/1518604875.jpeg</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/1518604875.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>109</news_id>
+                    <category>science</category>
+                    <title>There are many variations of passages of Lorem Ipsum available</title>
+                    <link>http://localhost/news365_v4/science/details/109/There-are-many-variations-of-passages-of-Lorem-Ipsum-available</link>
+                    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed nisl in felis ultrices tempus. Suspendisse non tellus felis. In ultrices non nulla vel scelerisque. Nunc quis diam quis orci</description>
+                    <pubDate>13-08-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/1502887485.jpeg</url>
+                        <title>There are many variations of passages of Lorem Ipsum available</title>
+                        <link>http://localhost/news365_v4/science/details/109/There-are-many-variations-of-passages-of-Lorem-Ipsum-available</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4/science/details/109/There-are-many-variations-of-passages-of-Lorem-Ipsum-available</guid>
+                    <image>http://localhost/news365_v4/uploads/1502887485.jpeg</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/1502887485.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>25</news_id>
+                    <category>science</category>
+                    <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                    <link>http://localhost/news365_v4/science/details/25/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/1502887485.jpeg</url>
+                        <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                        <link>http://localhost/news365_v4/science/details/25/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4/science/details/25/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</guid>
+                    <image>http://localhost/news365_v4/uploads/1502887485.jpeg</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/1502887485.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/news365_v4//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/news365_v4//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4//details//</guid>
+                    <image>http://localhost/news365_v4/uploads/</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/news365_v4//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/news365_v4//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4//details//</guid>
+                    <image>http://localhost/news365_v4/uploads/</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/news365_v4//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/news365_v4//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4//details//</guid>
+                    <image>http://localhost/news365_v4/uploads/</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/news365_v4//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/news365_v4//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4//details//</guid>
+                    <image>http://localhost/news365_v4/uploads/</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/news365_v4//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/news365_v4//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4//details//</guid>
+                    <image>http://localhost/news365_v4/uploads/</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/news365_v4//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/news365_v4//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4//details//</guid>
+                    <image>http://localhost/news365_v4/uploads/</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/news365_v4//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/news365_v4//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4//details//</guid>
+                    <image>http://localhost/news365_v4/uploads/</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/news365_v4//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/news365_v4//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4//details//</guid>
+                    <image>http://localhost/news365_v4/uploads/</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/news365_v4//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/news365_v4//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4//details//</guid>
+                    <image>http://localhost/news365_v4/uploads/</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/news365_v4//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/news365_v4//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4//details//</guid>
+                    <image>http://localhost/news365_v4/uploads/</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/news365_v4//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/news365_v4//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4//details//</guid>
+                    <image>http://localhost/news365_v4/uploads/</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/</thumb>
+                    
+                </item>
+</channel>
+</rss>

@@ -1,0 +1,1 @@
+[16-Oct-2016 02:47:09 America/Denver] PHP Fatal error:  Call to a member function num_rows() on array in /home/demohospitalbdta/public_html/application/models/AuthModel.php on line 32

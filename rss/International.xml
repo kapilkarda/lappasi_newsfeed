@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss  xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Demo Newspaper RSS Feed RSS</title>
+<link>http://localhost/MainNewsPaper-v2.0/</link>
+<description></description>
+<image>
+                    <title>Demo NewspaperRSS Feed</title>
+                    <url>http://localhost/MainNewsPaper-v2.0/uploads/images/logo.png</url>
+                    <link>http://localhost/MainNewsPaper-v2.0/</link>
+              </image>
+                <item>
+                    <news_id>107</news_id>
+                    <category>International</category>
+                    <title>making this the first true generator on the Internet.</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/International/details/107/making-this-the-first-true-generator-on-the-Internet</link>
+                    <description>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&amp;#39;t look even slightly</description>
+                    <pubDate>09-08-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1502281330.jpg</url>
+                        <title>making this the first true generator on the Internet.</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/International/details/107/making-this-the-first-true-generator-on-the-Internet</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/International/details/107/making-this-the-first-true-generator-on-the-Internet</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1502281330.jpg</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1502281330.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>106</news_id>
+                    <category>International</category>
+                    <title>Lorem Ipsum which looks reasonable. The generated</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/International/details/106/Lorem-Ipsum-which-looks-reasonable-The-generated</link>
+                    <description>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&amp;#39;t look even slightly</description>
+                    <pubDate>09-08-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1502281248.jpg</url>
+                        <title>Lorem Ipsum which looks reasonable. The generated</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/International/details/106/Lorem-Ipsum-which-looks-reasonable-The-generated</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/International/details/106/Lorem-Ipsum-which-looks-reasonable-The-generated</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1502281248.jpg</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1502281248.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>105</news_id>
+                    <category>International</category>
+                    <title>The generated Lorem Ipsum is therefore always free from repetition</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/International/details/105/The-generated-Lorem-Ipsum-is-therefore-always-free-from-repetition</link>
+                    <description>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&amp;#39;t look even slightly</description>
+                    <pubDate>09-08-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1502281210.jpg</url>
+                        <title>The generated Lorem Ipsum is therefore always free from repetition</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/International/details/105/The-generated-Lorem-Ipsum-is-therefore-always-free-from-repetition</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/International/details/105/The-generated-Lorem-Ipsum-is-therefore-always-free-from-repetition</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1502281210.jpg</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1502281210.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>104</news_id>
+                    <category>International</category>
+                    <title>There are many variations of passages of Lorem Ipsum available</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/International/details/104/There-are-many-variations-of-passages-of-Lorem-Ipsum-available</link>
+                    <description>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&amp;#39;t look even slightly</description>
+                    <pubDate>09-08-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1502281156.jpg</url>
+                        <title>There are many variations of passages of Lorem Ipsum available</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/International/details/104/There-are-many-variations-of-passages-of-Lorem-Ipsum-available</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/International/details/104/There-are-many-variations-of-passages-of-Lorem-Ipsum-available</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1502281156.jpg</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1502281156.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>93</news_id>
+                    <category>International</category>
+                    <title>Lorem Ipsum is simply dummy text of the printing</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/International/details/93/Lorem-Ipsum-is-simply-dummy-text-of-the-printing</link>
+                    <description>Lorem IpsumÃƒâ€šÃ‚Â is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a</description>
+                    <pubDate>27-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>Lorem Ipsum is simply dummy text of the printing</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/International/details/93/Lorem-Ipsum-is-simply-dummy-text-of-the-printing</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/International/details/93/Lorem-Ipsum-is-simply-dummy-text-of-the-printing</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>95</news_id>
+                    <category>International</category>
+                    <title> omnis voluptas assumenda est, omnis dolor </title>
+                    <link>http://localhost/MainNewsPaper-v2.0/International/details/95/omnis-voluptas-assumenda-est-omnis-dolor</link>
+                    <description>industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not</description>
+                    <pubDate>27-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title> omnis voluptas assumenda est, omnis dolor </title>
+                        <link>http://localhost/MainNewsPaper-v2.0/International/details/95/omnis-voluptas-assumenda-est-omnis-dolor</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/International/details/95/omnis-voluptas-assumenda-est-omnis-dolor</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>99</news_id>
+                    <category>International</category>
+                    <title>UPdate printer took a galley of type and scrambled it tttt</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/International/details/99/UPdate-printer-took-a-galley-of-type-and-scrambled-it-tttt</link>
+                    <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took</description>
+                    <pubDate>2017-02-27</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1502270184.jpg</url>
+                        <title>UPdate printer took a galley of type and scrambled it tttt</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/International/details/99/UPdate-printer-took-a-galley-of-type-and-scrambled-it-tttt</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/International/details/99/UPdate-printer-took-a-galley-of-type-and-scrambled-it-tttt</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1502270184.jpg</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1502270184.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>18</news_id>
+                    <category>International</category>
+                    <title>There are many variations of passages of Lorem Ipsum</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/International/details/18/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>There are many variations of passages of Lorem Ipsum</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/International/details/18/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/International/details/18/There-are-many-variations-of-passages-of-Lorem-Ipsum</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>17</news_id>
+                    <category>International</category>
+                    <title>There are many variations of passages of Lorem Ipsum</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/International/details/17/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>There are many variations of passages of Lorem Ipsum</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/International/details/17/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/International/details/17/There-are-many-variations-of-passages-of-Lorem-Ipsum</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>16</news_id>
+                    <category>International</category>
+                    <title>There are many variations of passages of Lorem Ipsum</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/International/details/16/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>There are many variations of passages of Lorem Ipsum</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/International/details/16/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/International/details/16/There-are-many-variations-of-passages-of-Lorem-Ipsum</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>15</news_id>
+                    <category>International</category>
+                    <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/International/details/15/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/International/details/15/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/International/details/15/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>14</news_id>
+                    <category>International</category>
+                    <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/International/details/14/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/International/details/14/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/International/details/14/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>13</news_id>
+                    <category>International</category>
+                    <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/International/details/13/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/International/details/13/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/International/details/13/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>12</news_id>
+                    <category>International</category>
+                    <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                    <link>http://localhost/MainNewsPaper-v2.0/International/details/12/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</url>
+                        <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                        <link>http://localhost/MainNewsPaper-v2.0/International/details/12/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/MainNewsPaper-v2.0/International/details/12/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</guid>
+                    <image>http://localhost/MainNewsPaper-v2.0/uploads/1488257246.png</image>
+                    <thumb>http://localhost/MainNewsPaper-v2.0/uploads/thumb/1488257246.png</thumb>
+                    
+                </item>
+</channel>
+</rss>

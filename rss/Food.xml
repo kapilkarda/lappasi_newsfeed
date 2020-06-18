@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss  xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Demo Newspaper RSS Feed RSS</title>
+<link>http://localhost/NewsPaper365-vs5/</link>
+<description></description>
+<image>
+                    <title>Demo NewspaperRSS Feed</title>
+                    <url>http://localhost/NewsPaper365-vs5/uploads/images/logo.png</url>
+                    <link>http://localhost/NewsPaper365-vs5/</link>
+              </image>
+                <item>
+                    <news_id>101</news_id>
+                    <category>Food</category>
+                    <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                    <link>http://localhost/NewsPaper365-vs5/Food/details/101/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a</description>
+                    <pubDate>27-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1488169343.jpg</url>
+                        <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                        <link>http://localhost/NewsPaper365-vs5/Food/details/101/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Food/details/101/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1488169343.jpg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1488169343.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>100</news_id>
+                    <category>Food</category>
+                    <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                    <link>http://localhost/NewsPaper365-vs5/Food/details/100/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a</description>
+                    <pubDate>27-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1488169230.jpg</url>
+                        <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                        <link>http://localhost/NewsPaper365-vs5/Food/details/100/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Food/details/100/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1488169230.jpg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1488169230.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>99</news_id>
+                    <category>Food</category>
+                    <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                    <link>http://localhost/NewsPaper365-vs5/Food/details/99/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a</description>
+                    <pubDate>27-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1488168760.jpeg</url>
+                        <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                        <link>http://localhost/NewsPaper365-vs5/Food/details/99/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Food/details/99/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1488168760.jpeg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1488168760.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>98</news_id>
+                    <category>Food</category>
+                    <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                    <link>http://localhost/NewsPaper365-vs5/Food/details/98/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a</description>
+                    <pubDate>27-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1488168645.jpg</url>
+                        <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                        <link>http://localhost/NewsPaper365-vs5/Food/details/98/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Food/details/98/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1488168645.jpg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1488168645.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>97</news_id>
+                    <category>Food</category>
+                    <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                    <link>http://localhost/NewsPaper365-vs5/Food/details/97/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam felis risus, cursus posuere sodales a, sagittis quis ipsum. Quisque fermentum quam ut venenatis convallis. Maecenas laoreet, justo a eleifend posuere,</description>
+                    <pubDate>26-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1488111103.jpg</url>
+                        <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                        <link>http://localhost/NewsPaper365-vs5/Food/details/97/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Food/details/97/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1488111103.jpg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1488111103.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>96</news_id>
+                    <category>Food</category>
+                    <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                    <link>http://localhost/NewsPaper365-vs5/Food/details/96/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam felis risus, cursus posuere sodales a, sagittis quis ipsum. Quisque fermentum quam ut venenatis convallis. Maecenas laoreet, justo a eleifend posuere,</description>
+                    <pubDate>26-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1488110791.jpeg</url>
+                        <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                        <link>http://localhost/NewsPaper365-vs5/Food/details/96/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Food/details/96/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1488110791.jpeg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1488110791.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>95</news_id>
+                    <category>Food</category>
+                    <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                    <link>http://localhost/NewsPaper365-vs5/Food/details/95/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam felis risus, cursus posuere sodales a, sagittis quis ipsum. Quisque fermentum quam ut venenatis convallis. Maecenas laoreet, justo a eleifend posuere,</description>
+                    <pubDate>26-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1488110104.jpg</url>
+                        <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                        <link>http://localhost/NewsPaper365-vs5/Food/details/95/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Food/details/95/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1488110104.jpg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1488110104.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>94</news_id>
+                    <category>Food</category>
+                    <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                    <link>http://localhost/NewsPaper365-vs5/Food/details/94/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam felis risus, cursus posuere sodales a, sagittis quis ipsum. Quisque fermentum quam ut venenatis convallis. Maecenas laoreet, justo a eleifend posuere,</description>
+                    <pubDate>26-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1488108878.jpeg</url>
+                        <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                        <link>http://localhost/NewsPaper365-vs5/Food/details/94/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Food/details/94/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1488108878.jpeg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1488108878.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>93</news_id>
+                    <category>Food</category>
+                    <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                    <link>http://localhost/NewsPaper365-vs5/Food/details/93/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam felis risus, cursus posuere sodales a, sagittis quis ipsum. Quisque fermentum quam ut venenatis convallis. Maecenas laoreet, justo a eleifend posuere,</description>
+                    <pubDate>26-02-2017</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1488108552.jpeg</url>
+                        <title>Integer porta ligula ut velit porta rutrum. Vivamus vitae fermentum risus</title>
+                        <link>http://localhost/NewsPaper365-vs5/Food/details/93/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Food/details/93/Integer-porta-ligula-ut-velit-porta-rutrum-Vivamus-vitae-fermentum-risus</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1488108552.jpeg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1488108552.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>82</news_id>
+                    <category>Food</category>
+                    <title>There are many variations of passages of Lorem Ipsum</title>
+                    <link>http://localhost/NewsPaper365-vs5/Food/details/82/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-19</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1487491734.jpg</url>
+                        <title>There are many variations of passages of Lorem Ipsum</title>
+                        <link>http://localhost/NewsPaper365-vs5/Food/details/82/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Food/details/82/There-are-many-variations-of-passages-of-Lorem-Ipsum</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1487491734.jpg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1487491734.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>81</news_id>
+                    <category>Food</category>
+                    <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                    <link>http://localhost/NewsPaper365-vs5/Food/details/81/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-19</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1487491745.jpeg</url>
+                        <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                        <link>http://localhost/NewsPaper365-vs5/Food/details/81/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Food/details/81/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1487491745.jpeg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1487491745.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>80</news_id>
+                    <category>Food</category>
+                    <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                    <link>http://localhost/NewsPaper365-vs5/Food/details/80/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-19</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1487491756.jpeg</url>
+                        <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                        <link>http://localhost/NewsPaper365-vs5/Food/details/80/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Food/details/80/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1487491756.jpeg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1487491756.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>79</news_id>
+                    <category>Food</category>
+                    <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                    <link>http://localhost/NewsPaper365-vs5/Food/details/79/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-19</pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/1487491770.jpg</url>
+                        <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                        <link>http://localhost/NewsPaper365-vs5/Food/details/79/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5/Food/details/79/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/1487491770.jpg</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/1487491770.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/NewsPaper365-vs5//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/NewsPaper365-vs5/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/NewsPaper365-vs5//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/NewsPaper365-vs5//details//</guid>
+                    <image>http://localhost/NewsPaper365-vs5/uploads/</image>
+                    <thumb>http://localhost/NewsPaper365-vs5/uploads/thumb/</thumb>
+                    
+                </item>
+</channel>
+</rss>

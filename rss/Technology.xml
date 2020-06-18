@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss  xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Demo Newspaper RSS Feed RSS</title>
+<link>http://localhost/news365_v4/</link>
+<description></description>
+<image>
+                    <title>Demo NewspaperRSS Feed</title>
+                    <url>http://localhost/news365_v4/uploads/images/logo.png</url>
+                    <link>http://localhost/news365_v4/</link>
+              </image>
+                <item>
+                    <news_id>136</news_id>
+                    <category>Technology</category>
+                    <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit</title>
+                    <link>http://localhost/news365_v4/Technology/details/136/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit</link>
+                    <description>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</description>
+                    <pubDate>14-02-2018</pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/1518607650.jpg</url>
+                        <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit</title>
+                        <link>http://localhost/news365_v4/Technology/details/136/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4/Technology/details/136/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit</guid>
+                    <image>http://localhost/news365_v4/uploads/1518607650.jpg</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/1518607650.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>27</news_id>
+                    <category>Technology</category>
+                    <title>There are many variations of passages of Lorem Ipsum</title>
+                    <link>http://localhost/news365_v4/Technology/details/27/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/1502887485.jpeg</url>
+                        <title>There are many variations of passages of Lorem Ipsum</title>
+                        <link>http://localhost/news365_v4/Technology/details/27/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4/Technology/details/27/There-are-many-variations-of-passages-of-Lorem-Ipsum</guid>
+                    <image>http://localhost/news365_v4/uploads/1502887485.jpeg</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/1502887485.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>102</news_id>
+                    <category>Technology</category>
+                    <title>blanditiis praesentium voluptatum deleniti atque corrupti </title>
+                    <link>http://localhost/news365_v4/Technology/details/102/blanditiis-praesentium-voluptatum-deleniti-atque-corrupti</link>
+                    <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took</description>
+                    <pubDate>2017-02-27</pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/1502887485.jpeg</url>
+                        <title>blanditiis praesentium voluptatum deleniti atque corrupti </title>
+                        <link>http://localhost/news365_v4/Technology/details/102/blanditiis-praesentium-voluptatum-deleniti-atque-corrupti</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4/Technology/details/102/blanditiis-praesentium-voluptatum-deleniti-atque-corrupti</guid>
+                    <image>http://localhost/news365_v4/uploads/1502887485.jpeg</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/1502887485.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>26</news_id>
+                    <category>Technology</category>
+                    <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                    <link>http://localhost/news365_v4/Technology/details/26/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/1502887485.jpeg</url>
+                        <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                        <link>http://localhost/news365_v4/Technology/details/26/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4/Technology/details/26/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</guid>
+                    <image>http://localhost/news365_v4/uploads/1502887485.jpeg</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/1502887485.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>24</news_id>
+                    <category>Technology</category>
+                    <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                    <link>http://localhost/news365_v4/Technology/details/24/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/1502887485.jpeg</url>
+                        <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                        <link>http://localhost/news365_v4/Technology/details/24/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4/Technology/details/24/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</guid>
+                    <image>http://localhost/news365_v4/uploads/1502887485.jpeg</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/1502887485.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>23</news_id>
+                    <category>Technology</category>
+                    <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                    <link>http://localhost/news365_v4/Technology/details/23/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/1502887485.jpeg</url>
+                        <title>Contrary to popular belief, Lorem Ipsum is not simply random text</title>
+                        <link>http://localhost/news365_v4/Technology/details/23/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4/Technology/details/23/Contrary-to-popular-belief-Lorem-Ipsum-is-not-simply-random-text</guid>
+                    <image>http://localhost/news365_v4/uploads/1502887485.jpeg</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/1502887485.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>22</news_id>
+                    <category>Technology</category>
+                    <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                    <link>http://localhost/news365_v4/Technology/details/22/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/1502887485.jpeg</url>
+                        <title>Lorem ipsum dolor sit amet, consectetur adipiscing eli</title>
+                        <link>http://localhost/news365_v4/Technology/details/22/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4/Technology/details/22/Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-eli</guid>
+                    <image>http://localhost/news365_v4/uploads/1502887485.jpeg</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/1502887485.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>21</news_id>
+                    <category>Technology</category>
+                    <title>There are many variations of passages of Lorem Ipsum</title>
+                    <link>http://localhost/news365_v4/Technology/details/21/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/1502887485.jpeg</url>
+                        <title>There are many variations of passages of Lorem Ipsum</title>
+                        <link>http://localhost/news365_v4/Technology/details/21/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4/Technology/details/21/There-are-many-variations-of-passages-of-Lorem-Ipsum</guid>
+                    <image>http://localhost/news365_v4/uploads/1502887485.jpeg</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/1502887485.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>20</news_id>
+                    <category>Technology</category>
+                    <title>There are many variations of passages of Lorem Ipsum available</title>
+                    <link>http://localhost/news365_v4/Technology/details/20/There-are-many-variations-of-passages-of-Lorem-Ipsum-available</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/1502887485.jpeg</url>
+                        <title>There are many variations of passages of Lorem Ipsum available</title>
+                        <link>http://localhost/news365_v4/Technology/details/20/There-are-many-variations-of-passages-of-Lorem-Ipsum-available</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4/Technology/details/20/There-are-many-variations-of-passages-of-Lorem-Ipsum-available</guid>
+                    <image>http://localhost/news365_v4/uploads/1502887485.jpeg</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/1502887485.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>19</news_id>
+                    <category>Technology</category>
+                    <title>There are many variations of passages of Lorem Ipsum</title>
+                    <link>http://localhost/news365_v4/Technology/details/19/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    <description>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</description>
+                    <pubDate>2017-02-18</pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/1502887485.jpeg</url>
+                        <title>There are many variations of passages of Lorem Ipsum</title>
+                        <link>http://localhost/news365_v4/Technology/details/19/There-are-many-variations-of-passages-of-Lorem-Ipsum</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4/Technology/details/19/There-are-many-variations-of-passages-of-Lorem-Ipsum</guid>
+                    <image>http://localhost/news365_v4/uploads/1502887485.jpeg</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/1502887485.jpeg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/news365_v4//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/news365_v4//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4//details//</guid>
+                    <image>http://localhost/news365_v4/uploads/</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/news365_v4//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/news365_v4//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4//details//</guid>
+                    <image>http://localhost/news365_v4/uploads/</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/news365_v4//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/news365_v4//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4//details//</guid>
+                    <image>http://localhost/news365_v4/uploads/</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id></news_id>
+                    <category></category>
+                    <title></title>
+                    <link>http://localhost/news365_v4//details//</link>
+                    <description></description>
+                    <pubDate></pubDate>       
+                    <image>
+                        <url>http://localhost/news365_v4/uploads/</url>
+                        <title></title>
+                        <link>http://localhost/news365_v4//details//</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/news365_v4//details//</guid>
+                    <image>http://localhost/news365_v4/uploads/</image>
+                    <thumb>http://localhost/news365_v4/uploads/thumb/</thumb>
+                    
+                </item>
+</channel>
+</rss>
